@@ -1,0 +1,27 @@
+{
+  "text": "OSへの作業依頼書ってどこにありますか？",
+  "language": "ja",
+  "features": {
+    "categories": {
+      "limit": 5
+    },
+    "concepts": {
+      "limit": 5
+    },
+    "keywords": {
+      "limit": 10
+    },
+    "entities": {
+      "limit": 10
+    },
+    "relations": {
+      "limit": 3
+    },
+    "sentiment": {
+      "limit": 3
+    },
+    "semantic_roles": {
+      "limit": 3
+    }
+  }
+}
